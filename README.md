@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif"width="300" height="300"/>
+</div>
 
-<!--
-**itbaans/itbaans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi👋 Im Itbaan :))
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="300" height="200"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓| About me: 
+ * 📚 Currently doing my Bachelors in Computer Science at IBA Karachi.
+ * 📝 Learning the basics of coding in Java
+ * 🎮 Like to play video games
+ * 🎨 Occasional Artist :D
